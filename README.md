@@ -115,7 +115,7 @@ Zicx's tools for productivity.
 - NetEase Cloud Music
 - Steam
 
-## Last
+## Discussion
 
 > I also use Linux as my main operating system and you can find some similar configurations here. ➡️  [dotfiles](https://github.com/cxzhou35/Awesome-dotfiles)
 >
