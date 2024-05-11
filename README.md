@@ -39,10 +39,9 @@ Zicx's tools for productivity.
 - Editor
   - Neovim - Neovim Settings & Plugins: [cxzhou/awesome/neovim](https://github.com/cxzhou35/Awesome-neovim)
   - VS Code - VS Code Settings & Extensions: [cxzhou35/vscode-settings](https://github.com/cxzhou35/vscode-settings)
-  - [Zed](https://zed.dev/)
 - Fonts: [Hack Nerd Font & Fira Nerd Font](https://www.nerdfonts.com/font-downloads)
 - Colorscheme
-  - [Catppucin](https://github.com/catppuccin/catppuccin)
+  - [Catppuccin](https://github.com/catppuccin/catppuccin)
   - [Nord](https://www.nordtheme.com/)
 - File Icons: [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 - Product Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
@@ -58,10 +57,11 @@ Zicx's tools for productivity.
 - [Zap](https://www.zapzsh.org/) - Minimal zsh plugin manager
 - [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer
 - [Lazygit](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands
-- [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal file manager
+- [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager
+- [Sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [Btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-- [Exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’
+- [Exa](https://github.com/ogham/exa) - A modern replacement for 'ls'
 - [Navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 
@@ -83,12 +83,17 @@ Zicx's tools for productivity.
 - [Dash](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager
 - [Popclip](https://pilotmoon.com/popclip/) - Instant Actions
 - [Thor](https://github.com/gbammc/Thor) - Application Switcher
+- [IINA](https://iina.io/) - Media Player
+- [Itsycal](https://www.mowglii.com/itsycal/) - Tiny Calendar
+- [Stats](https://github.com/exelban/stats) - macOS system monitor
 
 ### Browser
 
+- [Min](https://minbrowser.org/)
 - [Google Chrome](https://www.google.com/intl/en/chrome/)
 - [Arc](https://arc.net/)
-- [Min](https://minbrowser.org/)
+- [Brave Browser](https://brave.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
 
 
 ### Note-Taking
@@ -114,6 +119,7 @@ Zicx's tools for productivity.
 - Apple Music
 - NetEase Cloud Music
 - Steam
+- Slack
 
 ## Discussion
 
@@ -121,8 +127,8 @@ Zicx's tools for productivity.
 >
 > Advices are always welcome! 🙏
 >
-> If you have any recommendations for great tools or apps, please share them using the following method ⬇️
+> If you have any recommendations for great tools or apps, don't hesitate to share your favorites! ⬇️
 >
->[I want to recommend my great tools or apps!](https://github.com/cxzhou35/workspace/issues/1)
+>[I want to recommend my great tools or apps! 🙌](https://github.com/cxzhou35/workspace/issues/1)
 >
 > This repo will be continuously updated. 🥳
