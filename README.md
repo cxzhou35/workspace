@@ -59,6 +59,7 @@ Zicx's tools for productivity.
 - [Lazygit](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager
 - [Sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
 - [Btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 - [Exa](https://github.com/ogham/exa) - A modern replacement for 'ls'
