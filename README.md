@@ -54,7 +54,7 @@ Zicx's tools for productivity.
 
 - [Homebrew](https://brew.sh/) - Package Manager
 - [Zsh](https://zsh.org/) - Shell
-- [Zap](https://www.zapzsh.org/) - Minimal zsh plugin manager
+- [Zap](https://www.zapzsh.com/) - Minimal zsh plugin manager
 - [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer
 - [Lazygit](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager
@@ -62,7 +62,7 @@ Zicx's tools for productivity.
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
 - [Btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-- [Exa](https://github.com/ogham/exa) - A modern replacement for 'ls'
+- [Eza](https://github.com/eza-community/eza) - A modern replacement for 'ls'
 - [Navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 
